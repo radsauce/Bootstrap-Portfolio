@@ -1,0 +1,49 @@
+body {
+  background-color: darkgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+#navbarTitle {
+  font-size: 25px;
+  color: #ffffff;
+  background-color: darkgray;
+  border-radius: 0.5rem;
+  padding: 3px;
+  padding-top: 0px;
+  font-size: relative;
+  margin-top: 5px;
+
+}
+
+.container {
+  text-align: center;
+}
+
+.row {
+  border: #ffffff solid 2px;
+  border-radius: 0.5rem;
+}
+
+.active {
+  color: #ffffff;
+  background-color: darkgray;
+  border-radius: 0.5rem;
+  }
+#active {
+  color: #ffffff;
+}
+.navbar-brand {
+  padding: 5px;
+  margin-top: 5px;
+}
+/* #port1 {
+  align-self: center;
+} */
+footer {
+  color: rgb(212, 212, 212);
+}
